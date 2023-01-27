@@ -1,2 +1,2 @@
-This is a sample text file
+This is a sample text file!
 This has been updated by other developer in GitHub
